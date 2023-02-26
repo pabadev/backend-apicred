@@ -1,0 +1,7 @@
+{
+    "typescript.tsserver.watchOptions": {},
+    //"terminal.integrated.automationProfile.windows": {},
+    //"terminal.integrated.shell.windows": {},
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.defaultProfile.osx": "",
+}
